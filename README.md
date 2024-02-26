@@ -191,7 +191,7 @@ git <command> [<args>]
 **3.8.** On GitHub, all code blocks (like the one below) have a "copy to clipboard" button on the right. Use this button when learning commands to avoid syntax errors.
 
 ```text
-echo hello world!
+echo hello world
 ```
 
 > **3.8.1.** Remember to press the <kbd>Enter</kbd> key after pasting and editing the command (if applicable).
