@@ -363,7 +363,7 @@ cd MyFirstRepo
 **5.8** To create a new text file inside the `MyFirstRepo` directory, run:
 
 ```text
-echo "hello world!" > MyFile.txt
+echo "hello world" > MyFile.txt
 ```
 
 > **5.8.1.** The command above creates a file named `MyFile.txt` which contains the text `hello world!`. This file will be uploaded to the remote repository later on.
