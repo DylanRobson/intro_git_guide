@@ -196,7 +196,9 @@ echo hello world
 
 > **3.8.1.** Remember to press the <kbd>Enter</kbd> key after pasting and editing the command (if applicable).
 
-These icons indicate that the next step or info is OS-specific.
+***
+
+**3.9.** These icons indicate that the next step or info is OS-specific.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="Windows" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/640px-Apple_logo_dark_grey.svg.png" alt="macOS" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="24" height="24">
 
@@ -204,13 +206,13 @@ These icons indicate that the next step or info is OS-specific.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="Windows" width="24" height="24">
 
-Windows users should follow along using PowerShell to run these commands.
+**3.10.** Windows users should follow along using PowerShell to run these commands.
 
 ***
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/640px-Apple_logo_dark_grey.svg.png" alt="macOS" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="24" height="24">
 
-MacOS and Linux users should follow along using Terminal to run these commands.
+**3.11.** MacOS and Linux users should follow along using Terminal to run these commands.
 
 <!-- (There are other options but these are suggested for simplicity, for some cross compatability (`cd` and `ls` are aliased in PowerShell), and because they're preinstalled). -->
 
