@@ -2,7 +2,7 @@
 
 # **Intro git Guide (WIP)**
 
-## :construction: TODOs :construction:
+<!-- ## :construction: TODOs :construction:
 
 <details>
   <summary>Click here to collapse/expand TODOs </summary>
@@ -18,7 +18,7 @@
 | git remote add \<alias\> \<url\> in/near git push section |
 | manually resize images and save in repo for clean(er) lint |
 
-</details>
+</details> -->
 
 <!-- - [Purpose and Scope](#purpose-and-scope)
 - [Background](#background)
@@ -545,7 +545,7 @@ git push
 | :exclamation:  IMPORTANT   |
 |----------------------------|
 
-Pull early and often!
+Pull early and often to keep in sync with the remote repository and to prevent merge conflicts!
 
 To download changes from the remote repository to the local repository and working directory, run:
 
@@ -597,4 +597,3 @@ git commit -m "my first commit message" -->
 [[X]: https://en.wikipedia.org/wiki/Control-C](https://en.wikipedia.org/wiki/Control-C)
 
 https://github.com/git-guides/
-
