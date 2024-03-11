@@ -66,7 +66,7 @@
 
 > **1.6.4.** Distinctions between absolute and relative file paths.
 
-**1.7.** In practice I hope that this guide will alleviate some common growing pains (pictured below) while learning git on the command line.
+**1.7.** In practice I hope that this guide will alleviate some common growing pains (pictured below [[6]](#ftnt6)) while learning git on the command line.
 
 <!-- 661x956 originally -->
 <!-- <img src="git_2x.png" alt="git_xkcd" width="207" height="300">
@@ -84,7 +84,7 @@
 
 > **2.1.2** The collaborative and history features of Wikipedia that track every edit to a wiki page is an example of version control.
 
-**2.2.** The basic importance of version control can easily be understood by contrasting it with its messy and ineffective alternative (pictured below):
+**2.2.** The basic importance of version control can easily be understood by contrasting it with its messy and ineffective alternative (pictured below [[5]](#ftnt5)):
 
 <!-- 532x884 originally -->
 <img src="documents_2x.png" alt="documents_2x" width="181" height="300">
@@ -590,9 +590,11 @@ git commit -m "my first commit message" -->
 <a name="linuxInstallFtnt" id="linuxInstallFtnt"></a>
 [[4]: https://git-scm.com/download/linux](https://git-scm.com/download/linux)
 
+
+<a name="ftnt5" id="ftnt5"></a>
 [[5]: https://xkcd.com/1459/](https://xkcd.com/1459/)
 
-
+<a name="ftnt6" id="ftnt6"></a>
 [[6]: https://xkcd.com/1597/](https://xkcd.com/1597/)
 
 <a name="ftntX" id="ftntX"></a>
