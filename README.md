@@ -160,7 +160,7 @@ Notice that these characters have different meanings than when used directly in 
 
 > **3.3.2.** To quit vim **without saving**, press <kbd>Esc</kbd>, then type `:q!`, then press <kbd>Enter</kbd>
 
-**3.4.** If stuck in a command line program where all else fails to quit, try <kbd>Ctrl</kbd> + <kbd>c</kbd> (convential shortcut for interupting the currently running command line program). [[X]](#ftntX)
+**3.4.** If stuck in a command line program where all else fails to quit, try <kbd>Ctrl</kbd> + <kbd>c</kbd> (convential shortcut for interupting the currently running command line program). [[7]](#ftntX)
 
 <!-- label/emoji boxes from https://stackoverflow.com/a/58758521 -->
 
@@ -588,12 +588,15 @@ git commit -m "my first commit message" -->
 <a name="linuxInstallFtnt" id="linuxInstallFtnt"></a>
 [[4]: https://git-scm.com/download/linux](https://git-scm.com/download/linux)
 
-[[X]: https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+[[5]: https://xkcd.com/1459/](https://xkcd.com/1459/)
 
-[[X]: https://xkcd.com/1597/](https://xkcd.com/1597/)
+
+[[6]: https://xkcd.com/1597/](https://xkcd.com/1597/)
 
 <a name="ftntX" id="ftntX"></a>
 
-[[X]: https://en.wikipedia.org/wiki/Control-C](https://en.wikipedia.org/wiki/Control-C)
+[[7]: https://en.wikipedia.org/wiki/Control-C](https://en.wikipedia.org/wiki/Control-C)
 
-https://github.com/git-guides/
+[[8]: https://github.com/git-guides/](https://github.com/git-guides/)
+
+[[9]: https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
