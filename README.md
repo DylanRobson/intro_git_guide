@@ -34,7 +34,7 @@
 <!-- from https://stackoverflow.com/questions/3689838/whats-the-difference-between-head-working-tree-and-index-in-git -->
 <!-- ![](https://i.stack.imgur.com/CYO5D.jpg) -->
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*eGdNATA_BGQcA1xUvc9Irg.png)
+<!-- ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*eGdNATA_BGQcA1xUvc9Irg.png) -->
 
 ## **1. Purpose and Scope**
 
