@@ -84,14 +84,14 @@
 
 > **2.1.2** The collaborative and history features of Wikipedia that track every edit to a wiki page is an example of version control.
 
-**2.2.** The basic importance of version control can easily be understood by contrasting it with its messy and ineffective alternative:
+**2.2.** The basic importance of version control can easily be understood by contrasting it with its messy and ineffective alternative (pictured below):
 
 <!-- 532x884 originally -->
 <img src="documents_2x.png" alt="documents_2x" width="181" height="300">
 
 **2.3.** Git conceptualizes changes as existing in 1 of 4 states (3 locally, 1 remotely).
 
-> **2.3.1.** Basically this means that making local changes available remotely requires a multi step process (save modified file, run `git add`, run `git commit`, run `git push`).
+> **2.3.1.** Basically this means that making local changes available remotely requires a multi step process (pictured below; save modified file, run `git add`, run `git commit`, run `git push`).
 
 <!-- original from https://stackoverflow.com/questions/3689838/whats-the-difference-between-head-working-tree-and-index-in-git -->
 ![alt text](gitStatesAndSteps.jpeg)
@@ -510,7 +510,7 @@ git commit -m "my first commit message"
 
 ## **12. git push**
 
-To create the remote repository, go to https://github.com/new, then login if you're not already, then enter `MyFirstRepo` for the `Repository name` text field, then click the `Create repository` button.
+**12.1.** To create the remote repository, go to https://github.com/new, then login if you're not already, then enter `MyFirstRepo` for the `Repository name` text field, then click the `Create repository` button (pictured below).
 
 ![alt text](newRepoName.png)
 
@@ -518,25 +518,25 @@ To create the remote repository, go to https://github.com/new, then login if you
 
 <!-- ? Run this after `add`ing and `commit`ing to `push` (upload) local changes to the remote repo. If you `add` and `commit`, but forget to `push`, nobody will be able to see the changes. -->
 
-To tell git where the remote repository is located, run:
+**12.2.** To tell git where the remote repository is located, run:
 
 ```text
 git remote add origin https://github.com/<YourGithubUsername>/MyFirstRepo
 ```
 
-> Replace the `<YourGithubUsername>` in the command above with your GitHub username. Remember to delete the angle brackets.
+> **12.2.1.** Replace the `<YourGithubUsername>` in the command above with your GitHub username. Remember to delete the angle brackets.
 
-To upload changes from the local repository to the remote repository **for the first push only**, run:
+**12.3.** To upload changes from the local repository to the remote repository **for the first push only**, run:
 
 ```text
 git push -u origin main
 ```
 
-> The `-u origin main` in the command above allows `git push` and `git pull` to be run without arguments from now on.
+> **12.3.1.** The `-u origin main` in the command above allows `git push` and `git pull` to be run without arguments from now on.
 
  <!-- git the default branch to push to so that future runs of ` -->
 
-To upload changes from the local repository to the remote repository **for subsequent pushes**, run:
+**12.4.** To upload changes from the local repository to the remote repository **for subsequent pushes**, run:
 
 ```text
 git push
@@ -547,9 +547,9 @@ git push
 | :exclamation:  IMPORTANT   |
 |----------------------------|
 
-Pull early and often to keep in sync with the remote repository and to prevent merge conflicts!
+**13.1.** Pull early and often to keep in sync with the remote repository and to prevent merge conflicts!
 
-To download changes from the remote repository to the local repository and working directory, run:
+**13.2.** To download changes from the remote repository to the local repository and working directory, run:
 
 ```text
 git pull
